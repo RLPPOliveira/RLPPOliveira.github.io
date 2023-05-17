@@ -1,4 +1,4 @@
-# RLPPOliveira.github.io
+# rlppoliveira.github.io
 Welcome to my Personal Website 
 
 A user-friendly, engaging, minimal, informative and responsive website!
