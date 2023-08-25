@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **scientific project in Évora University**
 
-- 🌱 I’m currently learning **Python Pro Bootcamp**
+- 🌱 I finnish **Python Pro Bootcamp**
 
 - 👯 I’m looking to collaborate on **Technology and Engineering consultancy**
 
